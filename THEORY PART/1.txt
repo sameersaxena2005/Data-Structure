@@ -1,0 +1,6 @@
+ What are data structures, and why are they important?
+ 
+Data structures are ways to store and organize data efficiently.
+They help in optimizing operations like searching, sorting, and modification.
+Examples include lists, tuples, dictionaries, and sets.
+

@@ -1,0 +1,3 @@
+Why might you use a set instead of a list in Python
+
+Sets remove duplicates automatically and offer faster lookups compared to lists.

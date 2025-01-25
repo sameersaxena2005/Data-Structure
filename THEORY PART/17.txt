@@ -1,0 +1,3 @@
+Describe the time complexity of accessing elements in a dictionary
+
+O(1) on average due to hash table implementation.

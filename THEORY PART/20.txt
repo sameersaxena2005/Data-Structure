@@ -1,0 +1,4 @@
+Explain the difference between a list and a dictionary in terms of data retrieval.
+
+Lists retrieve elements by index (O(1) for access).
+Dictionaries retrieve elements by key (O(1) on average).

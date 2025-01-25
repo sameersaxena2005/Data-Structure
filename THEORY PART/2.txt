@@ -1,0 +1,13 @@
+Explain the difference between mutable and immutable data types with examples.
+
+Mutable data types can be changed after creation (e.g., lists, dictionaries).
+Immutable data types cannot be changed (e.g., strings, tuples).
+
+EXAMPLE:
+
+my_list = [1, 2, 3]
+my_list[0] = 10  # Allowed (mutable)
+
+my_tuple = (1, 2, 3)
+my_tuple[0] = 10  # Error (immutable)
+

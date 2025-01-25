@@ -1,0 +1,3 @@
+ Describe a scenario where using a tuple would be preferable over a list
+
+When storing coordinates or configuration settings that should not be changed.

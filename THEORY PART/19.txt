@@ -1,0 +1,4 @@
+Why are dictionaries considered unordered, and how does that affect data retrieval
+
+Dictionaries (before Python 3.7) did not maintain insertion order, but since Python 3.7, they do. However,
+retrieving elements is still based on keys, not positions.

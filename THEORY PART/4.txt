@@ -1,0 +1,3 @@
+Describe how dictionaries store data
+
+Dictionaries store data in key-value pairs using a hash table, allowing for fast lookups.

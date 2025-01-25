@@ -1,0 +1,4 @@
+What are the main differences between lists and tuples in Python
+
+Lists are mutable, slower, and use more memory.
+Tuples are immutable, faster, and use less memory.

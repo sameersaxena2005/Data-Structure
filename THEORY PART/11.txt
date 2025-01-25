@@ -1,0 +1,3 @@
+What advantages do dictionaries offer over lists for certain tasks
+
+Faster lookups (O(1) in average case), key-based access, and efficient data mapping.

@@ -1,0 +1,3 @@
+Can you modify the elements of a tuple? Explain why or why not
+
+No, because tuples are immutable. However, if a tuple contains a mutable object, that object can be modified.

@@ -1,0 +1,4 @@
+How does the “in” keyword work differently for lists and dictionaries
+
+For lists, it checks if a value exists.
+For dictionaries, it checks if a key exists.

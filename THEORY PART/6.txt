@@ -1,0 +1,3 @@
+What is a string in Python, and how is it different from a list
+
+A string is an immutable sequence of characters, whereas a list is mutable and can hold different data types.

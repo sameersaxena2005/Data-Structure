@@ -1,0 +1,3 @@
+How do tuples ensure data integrity in Python
+
+Since tuples are immutable, their values cannot be changed, ensuring data safety.

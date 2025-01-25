@@ -1,0 +1,3 @@
+In what situations are lists preferred over dictionaries
+
+When ordering matters or when storing a sequence of elements.

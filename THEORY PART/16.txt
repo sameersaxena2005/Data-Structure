@@ -1,0 +1,10 @@
+What is a nested dictionary, and give an example of its use case
+
+A dictionary within a dictionary, useful for hierarchical data
+
+EXAMPLE
+
+student = {
+    "name": "John",
+    "marks": {"math": 90, "science": 85}
+}

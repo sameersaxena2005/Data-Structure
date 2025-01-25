@@ -1,0 +1,8 @@
+How do sets handle duplicate values in Python
+
+Sets automatically remove duplicates:
+
+EXAMPLE
+
+my_set = {1, 2, 2, 3}
+print(my_set)  # Output: {1, 2, 3}

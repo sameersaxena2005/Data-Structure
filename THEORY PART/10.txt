@@ -1,0 +1,3 @@
+Explain why strings are immutable in Python
+
+Strings are immutable to prevent accidental changes, optimize memory usage, and allow string interning.

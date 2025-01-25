@@ -1,0 +1,4 @@
+What is a hash table, and how does it relate to dictionaries in Python
+
+A hash table is a data structure that maps keys to values using a hash function. Python dictionaries internally
+use hash tables for quick lookups.

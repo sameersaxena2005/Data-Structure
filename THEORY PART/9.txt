@@ -1,0 +1,8 @@
+ Can lists contain different data types in Python
+
+Yes, lists can store multiple data types:
+
+EXAMPLE : 
+
+my_list = [1, "hello", 3.14, [1, 2, 3]]
+
